@@ -1,8 +1,7 @@
 # CheckServices
 [![Build Status](https://travis-ci.org/colterd/CheckServices.svg?branch=master)](https://travis-ci.org/colterd/CheckServices)
 
-Debian Jessie (8) Check Services Script
-Probably also compatible with most other Ubuntu-distros.
+Debian Jessie (8) Check Services Script that's probably also compatible with most other Ubuntu-distros.
 
 For the e-mail feature to work, you need mailx installed on your system.
 
