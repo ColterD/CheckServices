@@ -1,2 +1,6 @@
 # CheckServices
-Debian Check Services Script
+Debian Jessie (8) Check Services Script
+Probably also compatible with most other Ubuntu-distros.
+
+For the e-mail feature to work, you need mailx installed on your system.
+The script will still execute without the e-mail portion, you just won't get notified.
