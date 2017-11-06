@@ -1,5 +1,5 @@
 # CheckServices
-[![Build Status](https://travis-ci.org/colterd/CheckServices.svg?branch=master)](https://travis-ci.org/colterd/CheckServices)
+[![Build Status](https://travis-ci.org/ColterD/CheckServices.svg?branch=master)](https://travis-ci.org/colterd/CheckServices)
 
 Debian Jessie (8) Check Services Script that's probably also compatible with most other Ubuntu-distros.
 
